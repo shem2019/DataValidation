@@ -1,0 +1,14 @@
+PROJECTNAME,PROJECTPHASE,PROJECTCATEGORY,REGION,COUNTY,SUBCOUNTY,CONSTITUENCY,WARD,SITECOORDINATES,SITECODE,SITENAME,SITECATEGORY,CONNECTEDOFFICES,UPLINKSITE,CONNECTIONSTATUS,@,GEOCODE_STATUS,gid,pop2009,county,subcounty,ward,uid,scuid,cuid
+NOFBI,,,North Rift,Baringo,Baringo Central,Tiaty Sub County,Loiyamorok Ward,"0.8554988,36.0893406",,CC-Baringo Central,Government Institution,,,,,OK,785.0,13885.0,BARINGO,Tiaty Sub County,Loiyamorok Ward,A7kJTCLxqNq,Mk4bMOSMRTB,vvOK1BxTbet
+NOFBI,,,North Rift,Baringo,Baringo Central,Tiaty Sub County,Loiyamorok Ward,"0.8554988,36.0893406",,Governor-Baringo Central,Government Institution,,,,,OK,785.0,13885.0,BARINGO,Tiaty Sub County,Loiyamorok Ward,A7kJTCLxqNq,Mk4bMOSMRTB,vvOK1BxTbet
+NOFBI,,,North Rift,Baringo,Baringo Central,Tiaty Sub County,Loiyamorok Ward,"0.8554988,36.0893406",,KNA-Baringo Central,Government Institution,,,,,OK,785.0,13885.0,BARINGO,Tiaty Sub County,Loiyamorok Ward,A7kJTCLxqNq,Mk4bMOSMRTB,vvOK1BxTbet
+NOFBI,,,North Rift,Baringo,Baringo Central,Tiaty Sub County,Loiyamorok Ward,"0.8554988,36.0893406",,Assembly-Baringo Central,Government Institution,,,,,OK,785.0,13885.0,BARINGO,Tiaty Sub County,Loiyamorok Ward,A7kJTCLxqNq,Mk4bMOSMRTB,vvOK1BxTbet
+NOFBI,,,North Rift,Baringo,Mogotio,Mogotio Sub County,Mogotio Ward,"-0.0030899,35.9639382",,MOGOTIO DCC,Government Institution,,,,,OK,802.0,27793.0,BARINGO,Mogotio Sub County,Mogotio Ward,duv5obCpRzb,k5sxmlXAtIg,vvOK1BxTbet
+NOFBI,,,North Rift,Baringo,Baringo North,,,,,BARINGO NORTH (KABARTONJO) DCC,Government Institution,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Koibatek,,,,,Koibatek (Eldama Ravine) DCC,Government Institution,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Baringo Central,,,,,KABARNET AFC Finance,Government Institution,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Koibatek,,,,,Eldama Ravine CRD,Government Institution,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Baringo Central,,,,,AFC-Baringo,Government Institution,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Koibatek,,,,,Eldama Ravine hospital,Health facility,,,,,Limit Reached,,,,,,,,
+NOFBI,,,North Rift,Baringo,Baringo Central,,,,,Baringo Sub county Hospital,Health facility,,,,,Limit Reached,,,,,,,,
+NOFBI,,,South Rift,Baringo,Baringo Central,,,,,CC Baringo,Government Institution,,,,,Limit Reached,,,,,,,,
